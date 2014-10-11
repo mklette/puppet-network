@@ -5,3 +5,4 @@ fixtures:
     stdlib: 'https://github.com/puppetlabs/puppetlabs-stdlib'
     boolean: 'https://github.com/adrienthebo/puppet-boolean'
     filemapper: 'https://github.com/adrienthebo/puppet-filemapper'
+    firewall: 'https://github.com/puppetlabs/puppetlabs-firewall.git'
